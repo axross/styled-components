@@ -4,3 +4,5 @@ src/test/utils.js
 *.test.js
 example/
 flow-typed/**/*.js
+lib/*
+dist/*
